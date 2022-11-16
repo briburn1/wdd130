@@ -29,9 +29,9 @@ main p {
 }
 
 footer {
-    background-color: steelblue;
-    color: white;
-  }
+  background-color: steelblue;
+  color: white;
+}
 
   .main-para {
     font-size: 1.5em;
@@ -50,8 +50,7 @@ nav, footer {
 }
 
 footer p {
-  font-size: 20px;
-  margin: 20px auto;
+  padding: 25px;
 }
 
 a:hover {

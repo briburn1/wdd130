@@ -133,6 +133,8 @@ footer a:hover {
 
 footer p a:hover {
     text-decoration: underline;
+    background-color: white;
+    color: black;
 }
 
 footer .social img {

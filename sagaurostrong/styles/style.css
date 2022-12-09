@@ -271,5 +271,6 @@ form {
         flex-direction: column;
         display: block;
         text-align: center;
+        margin: 0 auto;
     }
   }
